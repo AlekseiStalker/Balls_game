@@ -6,8 +6,7 @@
 - The level of bricks will be increased after each round you throw the balls.
 
 ## Game Features
-- Acceleration of the game
-- Pause
+- Acceleration of the game 
 - Best result
 - Current number of balls
 
