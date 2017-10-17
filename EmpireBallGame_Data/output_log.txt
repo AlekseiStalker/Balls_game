@@ -1,0 +1,36 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0xf31)
+    Vendor:   Intel
+    VRAM:     928 MB
+    Driver:   10.18.10.4358
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\Unity_main_data\Balls_game\EmpireBallGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.846 seconds
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.014342 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.202046 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 513.
+Total: 0.669696 ms (FindLiveObjects: 0.076563 ms CreateObjectMapping: 0.025048 ms MarkObjects: 0.515623 ms  DeleteObjects: 0.051515 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 26fc -> priority: 1 
+  Thread -> id: 218c -> priority: 1 
