@@ -5,6 +5,12 @@
 - Collect all the items to get additional balls and make an endless ball chain.
 - The level of bricks will be increased after each round you throw the balls.
 
+## Game Features
+- Acceleration of the game
+- Pause
+- Best result
+- Current number of balls
+
 ## Control
 - To throw balls and break bricks, draw a mouse.
 
